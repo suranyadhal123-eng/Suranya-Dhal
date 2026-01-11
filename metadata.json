@@ -1,0 +1,9 @@
+{
+  "name": "OmniMind Universal OS",
+  "description": "A hyper-advanced all-in-one AI workspace featuring deep reasoning, multi-modal understanding, Veo video generation, and real-time grounding.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone",
+    "geolocation"
+  ]
+}
